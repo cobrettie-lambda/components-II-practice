@@ -45,7 +45,7 @@ p {
   cursor: pointer;
 }
 .tab-navigator .tab-links .link[data-tab='1'] {
-  color: blue;
+  color: dodgerblue;
 }
 .tab-navigator .tab-content {
   width: 100%;
