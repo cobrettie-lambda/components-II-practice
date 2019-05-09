@@ -44,6 +44,9 @@ p {
   border: 1px solid black;
   cursor: pointer;
 }
+.tab-navigator .tab-links .link[data-tab='1'] {
+  color: blue;
+}
 .tab-navigator .tab-content {
   width: 100%;
   margin-top: 20px;
